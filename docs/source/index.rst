@@ -22,3 +22,5 @@ Contents
 
    usage
    api
+   Menu1
+   Menu2
